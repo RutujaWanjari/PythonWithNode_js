@@ -1,2 +1,3 @@
 # PythonWithNode_js
-Python support with Node.js
+Demonstration of Python support with Node.js
+To Run, type in terminal/command prompt - node start.js
